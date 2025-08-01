@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Preet
 
-<!--
-**Preelu/PREELU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 AI Engineer | Data Scientist | Python Developer  
+🚀 Building intelligent solutions using Python, TensorFlow, and Snowflake  
+💼 Passionate about time series forecasting, automation, and SaaS projects  
+📚 Master’s in Computer Science — University of Central Missouri
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+
+`Python` `TensorFlow` `Pandas` `Jupyter` `Scikit-learn`  
+`SQL` `Snowflake` `Power BI` `GitHub` `Salesforce`
+
+---
+
+## 📌 Featured Projects
+
+- 🛒 [Retail Sales Forecasting with LSTM](https://github.com/Preelu/retail-lstm-forecasting)
+
+---
+
+## 📫 Connect With Me
+
+📧 [preelu5@gmail.com](mailto:preelu5@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/preethi-kotha/)  
+🌐 [GitHub](https://github.com/Preelu)
