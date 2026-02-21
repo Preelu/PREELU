@@ -22,6 +22,5 @@
 
 ## 📫 Connect With Me
 
-📧 [preelu5@gmail.com](mailto:preelu5@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/preethi-kotha/)  
+📧 [preelu5@gmail.com](mailto:preelu5@gmail.com)    
 🌐 [GitHub](https://github.com/Preelu)
